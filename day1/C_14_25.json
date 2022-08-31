@@ -1,0 +1,371 @@
+[
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 1,
+    "type": "deleted_origin",
+    "x": -11.108166259478667,
+    "y": 12.196313158366372,
+    "imgW": 1685,
+    "imgH": 728.7064045656309,
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "label": "origin"
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 2,
+    "type": "deleted_scale",
+    "x": -1.496201985970596,
+    "y": 12.150973704246052,
+    "imgW": 1685,
+    "imgH": 728.7064045656309,
+    "color": [
+      128,
+      128,
+      128
+    ],
+    "label": "scale"
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 3,
+    "type": "origin",
+    "x": 0,
+    "y": 0,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "label": "origin"
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 4,
+    "type": "scale",
+    "x": -9.679973454688552,
+    "y": 0.022669727060160544,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      128,
+      128,
+      128
+    ],
+    "label": "scale"
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 5,
+    "type": "normal",
+    "x": -1.9495965271738067,
+    "y": 12.853735243111029,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      128,
+      0
+    ],
+    "label": "sitting interactive",
+    "direction": [
+      67.5,
+      112.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 6,
+    "type": "normal",
+    "x": -1.9495965271738067,
+    "y": 13.964551869058894,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      128,
+      0
+    ],
+    "label": "sitting interactive",
+    "direction": [
+      67.5,
+      112.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 7,
+    "type": "normal",
+    "x": -1.9269268001136461,
+    "y": 15.098038222066922,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      128,
+      0
+    ],
+    "label": "sitting interactive",
+    "direction": [
+      67.5,
+      112.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 8,
+    "type": "normal",
+    "x": -0.6347523576844952,
+    "y": 15.120707949127082,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      128,
+      0
+    ],
+    "label": "sitting interactive",
+    "direction": [
+      247.5,
+      292.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 9,
+    "type": "normal",
+    "x": -0.6347523576844952,
+    "y": 13.964551869058894,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      128,
+      0
+    ],
+    "label": "sitting interactive",
+    "direction": [
+      247.5,
+      292.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 10,
+    "type": "normal",
+    "x": -1.8589176189331647,
+    "y": 12.264322339546855,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      0,
+      255,
+      255
+    ],
+    "label": "sitting interactive",
+    "direction": [
+      112.5,
+      157.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 11,
+    "type": "normal",
+    "x": -5.032679407355641,
+    "y": 10.45074417473401,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      0,
+      0
+    ],
+    "label": "sitting individual",
+    "direction": [
+      67.5,
+      112.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 12,
+    "type": "normal",
+    "x": -3.6951655108061687,
+    "y": 10.45074417473401,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      0,
+      0
+    ],
+    "label": "sitting individual",
+    "direction": [
+      247.5,
+      292.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 13,
+    "type": "normal",
+    "x": -8.229110922838277,
+    "y": 0.8161101741657796,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      0,
+      0
+    ],
+    "label": "sitting individual",
+    "direction": [
+      67.5,
+      112.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 14,
+    "type": "normal",
+    "x": -8.251780649898437,
+    "y": 3.037743426061513,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      0,
+      0
+    ],
+    "label": "sitting individual",
+    "direction": [
+      67.5,
+      112.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 15,
+    "type": "normal",
+    "x": -6.914266753348966,
+    "y": 0.7707707200454585,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      0,
+      0
+    ],
+    "label": "sitting individual",
+    "direction": [
+      247.5,
+      292.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 16,
+    "type": "normal",
+    "x": -5.032679407355641,
+    "y": 1.9269268001136461,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      0,
+      0
+    ],
+    "label": "sitting individual",
+    "direction": [
+      67.5,
+      112.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 17,
+    "type": "normal",
+    "x": -5.0100096802954805,
+    "y": 4.216569233189861,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      0,
+      0
+    ],
+    "label": "sitting individual",
+    "direction": [
+      67.5,
+      112.5
+    ]
+  },
+  {
+    "date": "2022-8-24 14:26:23",
+    "id_": 18,
+    "type": "normal",
+    "x": -3.6951655108061687,
+    "y": 0.793440447105619,
+    "imgW": 685.3841870824053,
+    "imgH": 700,
+    "color": [
+      255,
+      0,
+      0
+    ],
+    "label": "sitting individual",
+    "direction": [
+      247.5,
+      292.5
+    ]
+  },
+  {
+    "labels_number": 6,
+    "labels_names": [
+      "sitting individual",
+      "sitting interactive",
+      "sitting remote",
+      "standing individual",
+      "standing interactive",
+      "standing remote",
+      "Label 7",
+      "Label 8",
+      "Label 9",
+      "Label 10",
+      "Label 11",
+      "Label 12",
+      "Label 13",
+      "Label 14",
+      "Label 15",
+      "Label 16",
+      "Label 17",
+      "Label 18",
+      "Label 19",
+      "Label 20"
+    ],
+    "selected_label": "sitting individual",
+    "selected_label_index": 0,
+    "add_delete": "null",
+    "change": 0,
+    "points_number": 18,
+    "id_": 19,
+    "selected_point": 10,
+    "origin_number": 1,
+    "scale_number": 1,
+    "o_x": 682,
+    "o_y": 9,
+    "s_x": 255,
+    "s_y": 10,
+    "ratio_p_m": 0.022669727060160544,
+    "inp_distance_value": "9.68",
+    "parts": 8,
+    "wheel_part": 6,
+    "size_point": 3
+  }
+]
